@@ -1,0 +1,1 @@
+# Teste-Projeto-BigQuery-Fecomercio
